@@ -1,3 +1,3 @@
 # git-lab
 lab2
-commit change for question 10
+CS 2400, Section 107
